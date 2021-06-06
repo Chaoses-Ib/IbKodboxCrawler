@@ -1,2 +1,0 @@
-# IbKodboxCrawler
-A simple crawler for [kodbox](https://github.com/kalcaddle/kodbox). It traverses all the folders under the specified path and generates [aria2](https://github.com/aria2/aria2) commands for batch download.
